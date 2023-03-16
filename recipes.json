@@ -1,0 +1,146 @@
+{
+    "recipes": [
+        {
+            "name": "Honey Mustard Chicken Thighs",
+            "ingredients": [
+                {
+                    "name": "chicken thighs",
+                    "quantity": "4"
+                },
+                {
+                    "name": "Dijon mustard",
+                    "quantity": "1/4 cup"
+                },
+                {
+                    "name": "honey",
+                    "quantity": "1/4 cup"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "2 tbsp"
+                },
+                {
+                    "name": "apple cider vinegar",
+                    "quantity": "2 tbsp"
+                },
+                {
+                    "name": "garlic cloves, minced",
+                    "quantity": "2"
+                },
+                {
+                    "name": "paprika",
+                    "quantity": "1 tsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1/2 tsp"
+                },
+                {
+                    "name": "black pepper",
+                    "quantity": "1/4 tsp"
+                }
+            ],
+            "instructions": [
+                "Preheat the oven to 400°F.",
+                "In a small bowl, whisk together Dijon mustard, honey, olive oil, apple cider vinegar, minced garlic cloves, paprika, salt, and black pepper.",
+                "Place the chicken thighs on a baking sheet and brush the honey mustard mixture over both sides of the chicken.",
+                "Bake for 30-35 minutes or until the chicken is cooked through and the skin is golden brown."
+            ]
+        },
+        {
+            "name": "Slow Cooker Chicken Adobo",
+            "ingredients": [
+                {
+                    "name": "chicken thighs",
+                    "quantity": "4"
+                },
+                {
+                    "name": "soy sauce",
+                    "quantity": "1/2 cup"
+                },
+                {
+                    "name": "apple cider vinegar",
+                    "quantity": "1/2 cup"
+                },
+                {
+                    "name": "chicken broth",
+                    "quantity": "1/2 cup"
+                },
+                {
+                    "name": "garlic cloves, minced",
+                    "quantity": "3"
+                },
+                {
+                    "name": "onion, minced",
+                    "quantity": "1"
+                },
+                {
+                    "name": "bay leaves",
+                    "quantity": "2"
+                },
+                {
+                    "name": "black pepper",
+                    "quantity": "1 tsp"
+                },
+                {
+                    "name": "brown sugar",
+                    "quantity": "1 tsp"
+                }
+            ],
+            "instructions": [
+                "In a slow cooker, combine soy sauce, apple cider vinegar, chicken broth, minced garlic cloves, minced onion, bay leaves, black pepper, and brown sugar.",
+                "Add the chicken thighs to the slow cooker and spoon the sauce over the chicken.",
+                "Cover and cook on low for 6-8 hours or until the chicken is tender and falls off the bone.",
+                "Serve with rice and steamed vegetables."
+            ]
+        },
+        {
+            "name": "One-Pan Lemon Garlic Chicken Thighs and Potatoes",
+            "ingredients": [
+                {
+                    "name": "chicken thighs",
+                    "quantity": "4"
+                },
+                {
+                    "name": "baby potatoes",
+                    "quantity": "1 lb"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/4 cup"
+                },
+                {
+                    "name": "garlic cloves, minced",
+                    "quantity": "3"
+                },
+                {
+                    "name": "lemon, sliced",
+                    "quantity": "1"
+                },
+                {
+                    "name": "dried oregano",
+                    "quantity": "1 tsp"
+                },
+                {
+                    "name": "dried thyme",
+                    "quantity": "1 tsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1 tsp"
+                },
+                {
+                    "name": "black pepper",
+                    "quantity": "1/2 tsp"
+                }
+            ],
+            "instructions": [
+                "Preheat the oven to 400°F.",
+                "In a bowl, whisk together olive oil, minced garlic cloves, dried oregano, dried thyme, salt, and black pepper.",
+                "Add the chicken thighs and baby potatoes to a large baking dish and pour the olive oil mixture over them. Toss until everything is coated.",
+                "Arrange the lemon slices on top of the chicken and potatoes.",
+                "Bake for 35-40 minutes or until the chicken is cooked through and the potatoes are tender."
+            ]
+        }
+    ]
+}
